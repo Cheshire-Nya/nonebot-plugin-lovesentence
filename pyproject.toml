@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 readme = "README.md"
 
 [project.urls]
-Homepage = "https://github.com/Cheshire-Nya"
+Homepage = "https://github.com/Cheshire-Nya/nonebot-plugin-lovesentence"
 Repository = "https://github.com/Cheshire-Nya/nonebot-plugin-lovesentence"
 
 [build-system]
