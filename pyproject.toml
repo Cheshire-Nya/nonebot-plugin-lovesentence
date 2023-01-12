@@ -1,0 +1,19 @@
+[project]
+name = "nonebot_plugin_lovesentence"
+version = "0.1.0"
+description = "Random Love Sentence in Nonebot2"
+authors = [
+    {name = "CheshireNya", email = "1210472556@qq.com"},
+]
+license-expression = "AGPL-3.0"
+dependencies = ["nonebot2>=2.0.0b2", "nonebot-adapter-onebot>=2.0.0b1"]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/Cheshire-Nya"
+Repository = "https://github.com/Cheshire-Nya/nonebot-plugin-lovesentence"
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
