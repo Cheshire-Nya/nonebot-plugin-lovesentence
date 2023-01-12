@@ -1,6 +1,6 @@
 [project]
 name = "nonebot_plugin_lovesentence"
-version = "0.1.0"
+version = "0.1.1"
 description = "Random Love Sentence in Nonebot2"
 authors = [
     {name = "CheshireNya", email = "1210472556@qq.com"},
