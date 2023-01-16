@@ -29,7 +29,7 @@ nonebot-plugin-lovesentence
    
    `nonebot.load_plugins("XXXXX")`
 
-   如果创建的文件夹不是在bot.py同级目录下，("")内的内容则是bot.py到插件文件夹的相对路径
+   ("")内的内容是bot.py到插件文件夹的相对路径
    
    如果有其他未在nb商店和pypi发布的插件也可以丢进刚刚创建的文件夹，会一起加载
 
